@@ -1,8 +1,8 @@
-numpy
-matplotlib.pyplot
 pandas
+numpy
+matplotlib
 seaborn
 scipy
-sklearn.linear_model
-sklearn.model_selection
-sklearn.metrics
+scikit-learn
+openpyxl
+jupyter
